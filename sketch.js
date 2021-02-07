@@ -10,6 +10,7 @@ function preload() {
     backgroundImg = loadImage("sprites/bg.png");
 }
 // hi how ru
+// flaskjklehoiw jjflksej  
 function setup(){
     var canvas = createCanvas(1200,400);
     engine = Engine.create();
